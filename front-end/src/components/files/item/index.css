@@ -1,0 +1,12 @@
+.item{
+    width: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.img-icon{
+    height: 50px;
+    width: 50px;
+}

@@ -1,0 +1,8 @@
+.google-main{
+    width: 250px;
+    height: auto;
+}
+
+.google-main:hover {
+    cursor: pointer;
+  }

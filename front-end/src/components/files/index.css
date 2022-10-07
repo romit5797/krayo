@@ -1,0 +1,15 @@
+.upload-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 10px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+}

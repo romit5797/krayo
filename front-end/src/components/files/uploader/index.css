@@ -1,0 +1,27 @@
+.label-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .label-wrapper:hover {
+    cursor: pointer;
+  }
+  
+  .image-upload > input {
+    display: none;
+  }
+  
+  .img {
+    width: 50px;
+    height: auto;
+  }
+  
+  .label-text {
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    color: wheat;
+  }
